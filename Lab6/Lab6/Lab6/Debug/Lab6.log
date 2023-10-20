@@ -1,0 +1,11 @@
+﻿  MathExp.cpp
+c:\users\david\desktop\visual studio\lab6\lab6\mathexp.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\visual studio\lab6\lab6\mathexp.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\visual studio\lab6\lab6\mathexp.cpp(160): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\visual studio\lab6\lab6\mathexp.cpp(173): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\visual studio\lab6\lab6\mathexp.cpp(208): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\visual studio\lab6\lab6\mathexp.cpp(238): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\visual studio\lab6\lab6\mathexp.cpp(268): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\visual studio\lab6\lab6\mathexp.cpp(285): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\visual studio\lab6\lab6\mathexp.cpp(26): warning C4715: 'applyOp': not all control paths return a value
+  Lab6.vcxproj -> C:\Users\David\Desktop\Visual Studio\Lab6\Debug\Lab6.exe
