@@ -1,0 +1,3 @@
+﻿  String.cpp
+c:\users\david\desktop\visual studio\lab5\lab5\string.cpp(18): error C2065: 'asd': undeclared identifier
+c:\users\david\desktop\visual studio\lab5\lab5\string.cpp(19): error C2143: syntax error: missing ';' before '}'

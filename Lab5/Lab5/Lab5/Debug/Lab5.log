@@ -1,0 +1,5 @@
+﻿  String.cpp
+c:\users\david\desktop\visual studio\lab5\lab5\string.cpp(112): warning C4018: '>': signed/unsigned mismatch
+c:\users\david\desktop\visual studio\lab5\lab5\string.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\visual studio\lab5\lab5\string.cpp(88): warning C4715: 'String::operator=': not all control paths return a value
+  Lab5.vcxproj -> C:\Users\David\Desktop\Visual Studio\Lab5\Debug\Lab5.exe
