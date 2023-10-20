@@ -1,4 +1,4 @@
-# C-Projects
+# Cplusplus-Projects
 Projects made in visual studio C++
 
 Lab 1: C++ basics, command-line compilation
